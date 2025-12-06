@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Create React App Sample Updated to use Vite",
   "icons": [
   ],
   "start_url": ".",
